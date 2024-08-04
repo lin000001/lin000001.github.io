@@ -1,18 +1,15 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I'm a second-year undergraduate student from Zhejiang University. My research interest revolves around AI (for) security and privacy.
 
-##News
+I am very fortunate to be advised by Prof. Yanjiao Chen and Prof. Wenyuan Xu at ZJU. 
+
+News
+------
 Congratulation!
 
 
+Publication
+------
 1. 
 
 
