@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from Zhejiang University. My research interest revolve around AI (for) security and privacy.
+I'm a second-year undergraduate student from Zhejiang University. My research interest revolves around AI (for) security and privacy.
 
-News
-======
+##News
 Congratulation!
 
-Publications
-======
+
 1. 
 
 
