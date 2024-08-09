@@ -17,8 +17,6 @@ Congratulation!
 
 Publication
 ------
-1. Legilimens: Practical and Unified Content Moderation for Large Language Model Services
-   
 
 
 Internships
