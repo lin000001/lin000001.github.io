@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second-year master student from Zhejiang University. My research interest revolves around AI (for) security and privacy.
+I am a second-year master's student at USSLAB, Zhejiang University, majoring in Electrical Engineering. My current supervisors are Prof. Wenyuan Xu and Prof. Yanjiao Chen. My research primarily focuses on AI security and privacy, with a specific emphasis on the security and safety of multimodal large language models (LLMs).
 
-I am very fortunate to be advised by Prof. Yanjiao Chen and Prof. Wenyuan Xu at ZJU. 
 
 News
 ------
